@@ -1,4 +1,4 @@
-name: 'YAML Schema Validator'
+name: 'Y(A)ML Schema Validator'
 description: 'Validate YAML files in a repo according to settings'
 inputs:
   settingsFile:

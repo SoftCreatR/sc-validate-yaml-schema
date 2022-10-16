@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SoftCreatR/validate-yaml-schema.git"
+    "url": "git+https://github.com/SoftCreatR/sc-validate-yaml-schema.git"
   },
   "keywords": [
     "yaml",
@@ -20,11 +20,11 @@
     "validation"
   ],
   "author": "huw.angle@wales.nhs.uk",
-  "license": "ISC",
+  "license": "CC0",
   "bugs": {
-    "url": "https://github.com/SoftCreatR/validate-yaml-schema/issues"
+    "url": "https://github.com/SoftCreatR/sc-validate-yaml-schema/issues"
   },
-  "homepage": "https://github.com/SoftCreatR/validate-yaml-schema",
+  "homepage": "https://github.com/SoftCreatR/sc-validate-yaml-schema",
   "dependencies": {
     "@actions/core": "^1.6.0",
     "glob": "^7.2.0",

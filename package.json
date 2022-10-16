@@ -1,5 +1,5 @@
 {
-  "name": "sc-validate-yaml-schema",
+  "name": "validate-yaml-schema",
   "version": "2.0.0",
   "description": "Validate a YAML file against a JSON Schema",
   "main": "lib/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SoftCreatR/sc-validate-yaml-schema.git"
+    "url": "git+https://github.com/SoftCreatR/validate-yaml-schema.git"
   },
   "keywords": [
     "yaml",
@@ -22,9 +22,9 @@
   "author": "huw.angle@wales.nhs.uk",
   "license": "CC0",
   "bugs": {
-    "url": "https://github.com/SoftCreatR/sc-validate-yaml-schema/issues"
+    "url": "https://github.com/SoftCreatR/validate-yaml-schema/issues"
   },
-  "homepage": "https://github.com/SoftCreatR/sc-validate-yaml-schema",
+  "homepage": "https://github.com/SoftCreatR/validate-yaml-schema",
   "dependencies": {
     "@actions/core": "^1.6.0",
     "glob": "^7.2.0",
